@@ -4,18 +4,18 @@
 
 **Part 1: Directions on Using Webstorm.**
 
-1) Download WebStorm (https://account.jetbrains.com/licenses)
-2) Download HomeBrew (https://brew.sh/)
-3) Use "brew install git" in Terminal
-4) Join GitHub (https://github.com/join)
-5) WebStorm > Preferences > Version Control > Git > Path to Git executable (Auto-detected) > Apply
-6) WebStorm > Preferences > Appearance & Behavior > System Settings > Passwords > Save passwords (In native Keychain) > Apply
-7) GitHub > New repository > Public > Add a README file > Create repository
-8) WebStorm > Project from Version Control > URL > Directory > Clone
-9) File > HTML File > Add to Git
-10) Commit and Push
-11) Choose Repository > Settings > Pages > Source (Deploy from a Branch) > Branch (main) > Save
-12) Test
+1. Download WebStorm (https://account.jetbrains.com/licenses)
+2. Download HomeBrew (https://brew.sh/)
+3. Use "brew install git" in Terminal
+4. Join GitHub (https://github.com/join)
+5. WebStorm > Preferences > Version Control > Git > Path to Git executable (Auto-detected) > Apply
+6. WebStorm > Preferences > Appearance & Behavior > System Settings > Passwords > Save passwords (In native Keychain) > Apply
+7. GitHub > New repository > Public > Add a README file > Create repository
+8. WebStorm > Project from Version Control > URL > Directory > Clone
+9. File > HTML File > Add to Git
+10. Commit and Push
+11. Choose Repository > Settings > Pages > Source (Deploy from a Branch) > Branch (main) > Save
+12. Test
 
 **Part 2: Glossary to include these terms in a bulleted list.**
 

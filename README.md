@@ -31,3 +31,9 @@
 - Pull: updates your current local branch and all remote tracking branches
 - Remote: "place where your code is stored" (repository on GitHub, user's fork, or a completely different server)
 - Repository: contains all of your project's files and each file's revision history
+
+**References**
+
+* (https://github.com/git-guides)
+* (https://docs.github.com/en)
+* (https://njit.instructure.com/)

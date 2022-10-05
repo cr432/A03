@@ -26,7 +26,7 @@
 - GIT: distributed version control software
 - Github: code hosting platform for version control and collaboration
 - Merge: merges different people's work together with yours
-- Merge Conflict: 
+- Merge Conflict: competing changes are made to the same file, or one person edits a file and another person deletes the same file
 - Push: uploads all local branch commits to the corresponding remote branch
 - Pull: updates your current local branch and all remote tracking branches
 - Remote: "place where your code is stored" (repository on GitHub, user's fork, or a completely different server)

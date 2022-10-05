@@ -2,7 +2,7 @@
 
 *MacBook Pro (13-inch, M1, 2020)*
 
-**Part 1: Directions on Using Webstorm.**
+<ins>Part 1: Directions on Using Webstorm.</ins>
 
 1. Download WebStorm (https://account.jetbrains.com/licenses)
 2. Download HomeBrew (https://brew.sh/)
@@ -17,22 +17,22 @@
 11. Choose Repository > Settings > Pages > Source (Deploy from a Branch) > Branch (main) > Save
 12. Test
 
-**Part 2: Glossary to include these terms in a bulleted list.**
+<ins>Part 2: Glossary to include these terms in a bulleted list.</ins>
 
-- Branch: isolates development work without affecting other branches in the repository
-- Clone: local repository copy
-- Commit: snapshot of your repository with metadata
-- Fetch: downloads remote code from a repository's remote URL to your local computer
-- GIT: distributed version control software
-- Github: code hosting platform for version control and collaboration
-- Merge: merges different people's work together with yours
-- Merge Conflict: competing changes are made to the same file, or one person edits a file and another person deletes the same file
-- Push: uploads all local branch commits to the corresponding remote branch
-- Pull: updates your current local branch and all remote tracking branches
-- Remote: "place where your code is stored" (repository on GitHub, user's fork, or a completely different server)
-- Repository: contains all of your project's files and each file's revision history
+- **Branch:** isolates development work without affecting other branches in the repository
+- **Clone:** local repository copy
+- **Commit:** snapshot of your repository with metadata
+- **Fetch:** downloads remote code from a repository's remote URL to your local computer
+- **GIT:** distributed version control software
+- **Github:** code hosting platform for version control and collaboration
+- **Merge:** merges different people's work together with yours
+- **Merge Conflict:** competing changes are made to the same file, or one person edits a file and another person deletes the same file
+- **Push:** uploads all local branch commits to the corresponding remote branch
+- **Pull:** updates your current local branch and all remote tracking branches
+- **Remote:** "place where your code is stored" (repository on GitHub, user's fork, or a completely different server)
+- **Repository:** contains all of your project's files and each file's revision history
 
-**References**
+<ins>References</ins>
 
 * (https://github.com/git-guides)
 * (https://docs.github.com/en)
